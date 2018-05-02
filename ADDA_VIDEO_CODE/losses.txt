@@ -1,0 +1,4 @@
+Iteration 0: Target:     1.3430     (avg:     1.3430)    Disc:     1.3986     (avg:     1.3986)
+Iteration 1: Target:     0.0000     (avg:     0.6715)    Disc: 8013138832572773674971584935231488.0000     (avg: 4006569416286386837485792467615744.0000)
+Iteration 2: Target:        nan     (avg:        nan)    Disc: 3955684683253186423929439901827727360.0000     (avg: 1321232606536626373011216978988236800.0000)
+Iteration 3: Target:        nan     (avg:        nan)    Disc:        nan     (avg:        nan)
